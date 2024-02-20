@@ -1,4 +1,4 @@
 # Hi, I'm Zach
 ## 📚 Currently reading: 
 - How The World Really Works - Vaclav Smil
-- Project Hail Mary - Andy Weir
+- A Supposedly Fun Thing I'll Never Do Again: Essays and Arguments - David Foster Wallace
